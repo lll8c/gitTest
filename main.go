@@ -27,7 +27,6 @@ func dfs(k int) {
 }
 
 func main() {
-	n = 5
-
+	n = 4
 	dfs(0)
 }
