@@ -28,5 +28,6 @@ func dfs(k int) {
 
 func main() {
 	n = 5
+
 	dfs(0)
 }
